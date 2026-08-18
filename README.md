@@ -12,17 +12,29 @@ QuickScan is designed to make scanning, creating, saving, and managing QR codes 
 
 - Scan QR codes using the camera
 - Scan QR codes from images in the gallery
+- Flashlight support while scanning
+- Automatic QR content type detection
+- Support for URL, text, phone, email, Wi-Fi, contact, and location QR codes
+- Open URLs directly through the device's normal web browser
+- Scan result actions including open, copy, share, save, and scan again
 - Generate QR codes for text, URLs, Wi-Fi, contacts, email, and phone numbers
 - Preview generated QR codes
-- Save generated QR codes
-- Share QR codes
-- View scan history
-- Save important scan results
+- Save and share generated QR codes
+- QR codes compatible with standard QR scanners and other QR apps
+- Persistent local scan history
+- Search scan history
+- Delete individual scan results
+- Clear scan history
+- Save important QR results for quick access
 - Manage saved QR codes
-- Search and access previous scans
-- Flashlight support while scanning
+- Theme preferences with light and dark modes
+- Vibration and sound preferences
+- Camera and storage permission handling
+- Error handling for invalid QR codes and unsupported content
+- Core scanning, generation, and history features available offline
 - Clean Material 3 interface
 - Responsive layouts for different Android screen sizes
+- Smooth navigation and interactions
 
 ## Built With
 
@@ -31,12 +43,16 @@ QuickScan is designed to make scanning, creating, saving, and managing QR codes 
 - Material 3
 - Android
 - Modern Android development tools
+- Camera and media APIs
+- Local data storage
 
 ## My Role
 
-I designed and developed the complete application independently, including the UI, QR scanning and generation experience, navigation, interactions, and responsive layouts.
+I designed and developed the complete application independently, including the UI, QR scanning and generation experience, navigation, interactions, local history, settings, permission handling, error handling, and responsive layouts.
 
 The application was built with Jetpack Compose to keep the interface flexible and consistent across different screen sizes.
+
+I also focused on keeping the core scanning, QR generation, and history features available without requiring an internet connection.
 
 ## Screenshots
 
