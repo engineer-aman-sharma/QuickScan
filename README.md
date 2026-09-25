@@ -82,6 +82,10 @@ This application was developed for a client, so the source code is not publicly 
 
 The screenshots were captured during development before the final delivery. The developer branding shown in the screenshots was removed from the version delivered to the client.
 
+## Project Details
+
+- Package Name: `com.quickscan.glass.nine`
+- Status: Client Project — UI, features, and availability may change in the future.
 ## Developer
 
 **Aman Sharma**
